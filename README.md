@@ -21,13 +21,13 @@ EBOOKSYCHOPHANT is an online e-book platform designed to allow users to discover
 - **Performance Enhancements**: CSS/JS minification, image optimization, lazy loading
 
 ## Installation
-## **1. Set Up XAMPP**:
+## 1. Set Up XAMPP:
 - Install XAMPP to manage the Apache server and MySQL database.<br>
-## **2. Database Setup**:
+## 2. Database Setup:
 - Open phpMyAdmin in XAMPP.
 - Create a new database (e.g., ebooksychophant_db).
 - Import the provided SQL file (ebooksychophant_db.sql) from the repository to set up the database structure.<br>
-## **3. Run the Project**:
+## 3. Run the Project:
 - Place the project folder in the htdocs directory of XAMPP.
 - Start Apache and MySQL from the XAMPP control panel.
 - Access the application by visiting http://localhost/EBOOKSYCHOPHANT in your web browser.
